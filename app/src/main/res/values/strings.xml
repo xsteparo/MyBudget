@@ -1,0 +1,107 @@
+<resources>
+    <!--    Common-->
+    <string name="app_name">MyBudget</string>
+    <string name="menu_alt_text">Menu</string>
+    <string name="no_data">No data to be displayed.</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+
+    <!--    Product Types Strings-->
+    <string name="product_type_shop">Shop</string>
+    <string name="product_type_tech">Tech</string>
+
+
+    <!--    Drawer-->
+    <string name="drawer_about_us_title">About Us</string>
+    <string name="drawer_about_us_icon_alt">Navigate to About Us</string>
+
+    <string name="drawer_currency_title">Currency</string>
+    <string name="drawer_currency_icon_alt">Navigate to Currency</string>
+
+    <string name="drawer_contacts_title">Contacts</string>
+    <string name="drawer_contacts_icon_alt">Navigate to Contacts</string>
+
+    <string name="drawer_logout_button">Logout</string>
+    <string name="drawer_logout_button_icon_alt">Logout Icon</string>
+
+    <!--    Bottom Navigation-->
+    <string name="home_icon_alt_text">Navigate to Home</string>
+    <string name="add_note_icon_alt_text">Navigate to Add New</string>
+    <string name="history_icon_alt_text">Navigate to History</string>
+
+
+    <!--    Login Screen-->
+    <string name="login_screen_title">Login</string>
+    <string name="login_screen_sign_in_button_text">Sign In</string>
+    <string name="login_screen_email_input_label">Email</string>
+    <string name="login_screen_email_input_hint">MyBudget</string>
+    <string name="login_screen_password_input_label">Password</string>
+    <string name="login_screen_password_input_hint">MyBudget</string>
+    <string name="login_screen_create_account_text">Don\'t have an account?</string>
+
+
+    <!--    SignUp Screen-->
+    <string name="signup_screen_title">Sign Up</string>
+    <string name="signup_screen_subtitle_text">Create an account</string>
+    <string name="signup_screen_name_input_label">User Name</string>
+    <string name="signup_screen_name_input_hint">MyBudget</string>
+    <string name="signup_screen_sign_up_button_text">Sign Up</string>
+    <string name="signup_screen_already_have_account_text">Already have account?</string>
+
+
+
+    <!--    Home Screen-->
+    <string name="home_screen_title">Home</string>
+    <string name="home_screen_welcome_header">Welcome, %1$s!</string>
+    <string name="home_screen_welcome_username_placeholder">User</string>
+    <string name="home_screen_chart_legend_income">%1$d USD Your Last Month\'s Income</string>
+    <string name="home_screen_chart_legend_expense">%1$d USD Your Last Month\'s Expenses</string>
+
+    <!--    Add Screen-->
+    <string name="add_screen_title">Add</string>
+    <string name="add_screen_input_title_hint">Title</string>
+    <string name="add_screen_input_location_hint">Fill in the location</string>
+    <string name="add_screen_input_amount_hint">Amount</string>
+    <string name="add_screen_input_type_hint">Select type</string>
+    <string name="add_screen_button_add">Add a Note</string>
+
+    <!--    History Screen-->
+    <string name="history_screen_title">History</string>
+
+    <!--    Details Screen-->
+    <string name="details_screen_title">Details</string>
+    <string name="details_screen_header_text">Product information</string>
+    <string name="details_screen_date_row_title">Date</string>
+    <string name="details_screen_title_row_title">Title</string>
+    <string name="details_screen_type_row_title">Type</string>
+    <string name="details_screen_location_row_title">Location</string>
+    <string name="details_screen_amount_row_title">Amount</string>
+    <string name="details_screen_product_image_alt">Product Image</string>
+    <string name="details_screen_success_edit_toast">Product was edited successfully!</string>
+
+
+    <!--    About Us Screen-->
+    <string name="aboutus_screen_title">About Us</string>
+    <string name="aboutus_screen_image_alt">SIT logo</string>
+    <string name="aboutus_screen_text_1">Tato aplikace byla vytvořena výhradně jako součást semestrálního projektu pro předmět B6B39PDA na FEL SIT ČVUT v roce 2023.</string>
+    <string name="aboutus_screen_text_2">Mohli jsme se tak na vlastní kůži přesvědčit, co je to vyvoj Android aplikace a jaké dovednosti jsou potřeba k její realizaci. ✅</string>
+    <string name="aboutus_screen_text_3">Doufáme, že jste si z používání tohoto webu odnesli co nejvíce!</string>
+    <string name="aboutus_screen_text_4">Děkujeme Vám za pozornost!</string>
+
+    <!--    Currency Screen-->
+    <string name="currency_screen_title">Currency</string>
+    <string name="currency_screen_header">Currency Rates</string>
+
+    <!--    Contacts Screen-->
+    <string name="contacts_screen_title">Contacts</string>
+
+    <string name="contacts_screen_dev1_title">Android Dev</string>
+    <string name="contacts_screen_dev1_name">Roman Stepa</string>
+    <string name="contacts_screen_dev1_phone">Tel: +420*****313</string>
+    <string name="contacts_screen_dev1_image_alt">Roman Stepa Image</string>
+
+    <string name="contacts_screen_dev2_title">Android Dev &amp; UX Designer </string>
+    <string name="contacts_screen_dev2_name">Dmitrij Rastvorov</string>
+    <string name="contacts_screen_dev2_phone">Tel: +420*****943</string>
+    <string name="contacts_screen_dev2_image_alt">Dmitrij Rastvorov Image</string>
+</resources>
